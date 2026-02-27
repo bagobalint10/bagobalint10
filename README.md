@@ -18,7 +18,7 @@
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,matlab,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,linux,matlab,)](https://skillicons.dev)
 
 ### Microcontrollers
 
@@ -33,27 +33,24 @@
 ### Platforms 
 
 - Bare-metal
+- RTOS (FreeRTOS)
+- Raspberry Pi Linux
 
 
 ## Currently learning
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=linux,py,opencv)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,opencv)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=cs,html,css,js,php,mysql)](https://skillicons.dev)
 ### Microcontrollers
 
 - ESP32  (Espressif)
 
-### Platforms 
-
-- RTOS (FreeRTOS)
-- Raspberry Pi Linux
-
 ## Connect with me
 
-[Bagó Bálint](https://github.com/bagobalint10) – [LinkedIn](https://www.linkedin.com/in/b%C3%A1lint-bag%C3%B3-49000123a/)  
+[Bagó Bálint](https://github.com/bagobalint10) – [LinkedIn](www.linkedin.com/in/bálint-bagó-49000123a)  
 
 
 
