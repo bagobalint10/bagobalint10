@@ -50,7 +50,7 @@
 
 ## Connect with me
 
-[Bagó Bálint](https://github.com/bagobalint10) – [LinkedIn](www.linkedin.com/in/bálint-bagó-49000123a)  
+[Bagó Bálint](https://github.com/bagobalint10) – [LinkedIn](https://www.linkedin.com/in/b%C3%A1lint-bag%C3%B3-49000123a) 
 
 
 
